@@ -23,8 +23,8 @@
     "access": "public"
   },
   "peerDependencies": {
-    "numeral": "^2.0.6",
-    "react": "^16.13.1",
+    "numeral": "~2",
+    "react": "~16 || ~17",
     "styled-components": ">= 4"
   },
   "files": [
